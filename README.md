@@ -4,7 +4,7 @@ Data Analysis on Human Resource
 - [Introduction](#introduction)
 - [Goal](#goal)
 - [Data](#data)
-- [Technology] (#tech)
+- [Technology](#tech)
 - [Question of Interest](#QestiionOfInterest)
 - [Results](#results)
 - [Key Insights](#keyInsights)
