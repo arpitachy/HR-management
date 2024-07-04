@@ -40,8 +40,16 @@ I have analyzed the question of interest using SQL qyuries. Here is my queries r
 ![image](https://github.com/arpitachy/HR-management/blob/main/images/q1.PNG)
 ![image](https://github.com/arpitachy/HR-management/blob/main/images/q2.PNG)
 ![image](https://github.com/arpitachy/HR-management/blob/main/images/q3.PNG)
-
-I have created dashboard utilizing some features in Power BI such as bar chart, line chart, pie chart, column chart, table, map, card etc . Here is the dashboard:
+![image](https://github.com/arpitachy/HR-management/blob/main/images/q4.PNG)
+![image](https://github.com/arpitachy/HR-management/blob/main/images/q5.PNG)
+![image](https://github.com/arpitachy/HR-management/blob/main/images/q6.PNG)
+![image](https://github.com/arpitachy/HR-management/blob/main/images/q7.PNG)
+![image](https://github.com/arpitachy/HR-management/blob/main/images/q8.PNG)
+![image](https://github.com/arpitachy/HR-management/blob/main/images/q9.PNG)
+![image](https://github.com/arpitachy/HR-management/blob/main/images/q10.PNG)
+![image](https://github.com/arpitachy/HR-management/blob/main/images/q11.PNG)
+After running the SQL quesries, new datasets are produced for further analysis. The cleaned datasets are here.
+Finally, I have created dashboard utilizing some features in Power BI such as bar chart, line chart, pie chart, column chart, table, map, card etc . Here is the dashboard:
 ![image](https://github.com/arpitachy/HR-management/blob/main/images/HR%20data%20analysis_page-0001.jpg)
 ![image](https://github.com/arpitachy/HR-management/blob/main/images/HR%20data%20analysis_page-0002.jpg)
 
