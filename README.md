@@ -7,6 +7,7 @@ Data Analysis on Human Resource
 - [Technology](#tech)
 - [Process](#process)
 - [Question of Interest](#QestiionOfInterest)
+- [Result](#result)
 - [Key Insights](#keyInsights)
 ## Introduction
 Employee datasets plays a vital role in HR management. In this project, I have implemented data analysis in HR employee data so that I can find meaningful employee data insights.
@@ -34,6 +35,8 @@ The dataset I used in this project is from [here](https://github.com/arpitachy/H
 9. What is the distribution of employees across locations by state?
 10. How has the company's employee count changed over time based on hire and term dates?
 11. What is the tenure distribution for each department?
+## Result
+
 ## Key Insights
 1. There are more male employees.
 2. White race is the most dominant while Native Hawaiian and American Indian are the least dominant.
