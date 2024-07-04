@@ -37,7 +37,8 @@ The dataset I used in this project is from [here](https://github.com/arpitachy/H
 11. What is the tenure distribution for each department?
 ## Result
 I have created dashboard utilizing some features in Power BI such as bar chart, line chart, pie chart, column chart,table, map, card etc . Here is the dashboard:
-![image](https://github.com/arpitachy/HR-management/blob/main/images/HR%20data%20analysis.pdf)
+![image](https://github.com/arpitachy/HR-management/blob/main/images/HR%20data%20analysis_page-0001.jpg)
+![image](https://github.com/arpitachy/HR-management/blob/main/images/HR%20data%20analysis_page-0002.jpg)
 
 ## Key Insights
 1. There are more male employees.
