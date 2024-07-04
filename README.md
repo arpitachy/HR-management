@@ -13,7 +13,7 @@ Employee datasets plays a vital role in HR management. In this project, I have i
 ## Goal
 The main goal of this project is to get the thorough data cleaning, analysis and visualization for human resource employee data of a company utilizing SQL and Power BI.
 ## Data
-The dataset I used in this project is from
+The dataset I used in this project is from [here](https://github.com/arpitachy/HR-management/tree/main/dataset)
 ## Technology
 - Data Cleaning & Analysis - MySQL Workbench
 - Data Visualization - PowerBI
