@@ -36,6 +36,11 @@ The dataset I used in this project is from [here](https://github.com/arpitachy/H
 10. How has the company's employee count changed over time based on hire and term dates?
 11. What is the tenure distribution for each department?
 ## Result
+I have analyzed the question of interest using SQL qyuries. Here is my queries ran on  MySQL Workbench:
+![image](https://github.com/arpitachy/HR-management/blob/main/images/q1.PNG)
+![image](https://github.com/arpitachy/HR-management/blob/main/images/q2.PNG)
+![image](https://github.com/arpitachy/HR-management/blob/main/images/q3.PNG)
+
 I have created dashboard utilizing some features in Power BI such as bar chart, line chart, pie chart, column chart, table, map, card etc . Here is the dashboard:
 ![image](https://github.com/arpitachy/HR-management/blob/main/images/HR%20data%20analysis_page-0001.jpg)
 ![image](https://github.com/arpitachy/HR-management/blob/main/images/HR%20data%20analysis_page-0002.jpg)
