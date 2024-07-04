@@ -14,7 +14,7 @@ Employee datasets plays a vital role in HR management. In this project, I have i
 ## Goal
 The main goal of this project is to get the thorough data cleaning, analysis and visualization for human resource employee data of a company utilizing SQL and Power BI.
 ## Data
-The dataset I used in this project is from [here](https://github.com/arpitachy/HR-management/tree/main/dataset)
+The dataset I used in this project is from [here](https://github.com/arpitachy/HR-management/tree/main/dataset).
 ## Technology
 - Data Cleaning & Analysis - MySQL Workbench
 - Data Visualization - PowerBI
@@ -48,7 +48,7 @@ I have analyzed the question of interest using SQL qyuries. Here is my queries r
 ![image](https://github.com/arpitachy/HR-management/blob/main/images/q9.PNG)
 ![image](https://github.com/arpitachy/HR-management/blob/main/images/q10.PNG)
 ![image](https://github.com/arpitachy/HR-management/blob/main/images/q11.PNG)
-After running the SQL quesries, new datasets are produced for further analysis. The cleaned datasets are here.
+After running the SQL quesries, new datasets are produced for further analysis. The cleaned datasets are [here](https://github.com/arpitachy/HR-management/upload/main/processed%20dataset).
 Finally, I have created dashboard utilizing some features in Power BI such as bar chart, line chart, pie chart, column chart, table, map, card etc . Here is the dashboard:
 ![image](https://github.com/arpitachy/HR-management/blob/main/images/HR%20data%20analysis_page-0001.jpg)
 ![image](https://github.com/arpitachy/HR-management/blob/main/images/HR%20data%20analysis_page-0002.jpg)
