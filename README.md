@@ -1,4 +1,4 @@
-# HR-management analysis using SQL and power BI
+# HR-Employee data management analysis using SQL and power BI
 Data Analysis on Human Resource
 ## Table of Contents
 - [Introduction](#introduction)
